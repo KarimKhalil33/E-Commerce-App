@@ -39,6 +39,7 @@
                 } else {
             %>
                 <p>Welcome, Guest! (<a href="login.jsp">Login</a>)</p>
+                <a href="register.jsp">Register</a>
             <%
                 }
             %>
